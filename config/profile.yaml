@@ -61,9 +61,9 @@ profile:
 # # =====================================================
 
 education:
-  - degree: "Ph.D. in [Field]"
-    school: "[University Name]"
-    years: "20XX - Present"
+  - degree: "Ph.D. in Electronics Engineering"
+    school: "UAB"
+    years: "2013 - 2017"
     logo: "https://upload.wikimedia.org/wikipedia/en/a/a1/Arizona_State_University_seal.svg"
 
   - degree: "M.S. in Computer Science"
