@@ -69,12 +69,12 @@ education:
   - degree: "M.S. in Circuits and Systems"
     school: "Wuhan University of Technology"
     years: "2010 - 2013"
-    logo: "/images/ntu_logo.svg"
+    logo: "/images/Wuhan_University_of_Technology_logo.png"
 
   - degree: "B.S. in Communication Engineering"
     school: "Wuhan University of Technology"
     years: "2001 - 2005"
-    logo: "/images/nccu_logo.svg"
+    logo: "/images/Wuhan_University_of_Technology_logo.png"
 
 # # =====================================================
 # # 💼 Work Experience Section
@@ -89,7 +89,7 @@ workExperience:
   - title: "Postdoctoral Researcher"
     company: "Huazhong University of Science and Technology"
     years: "Dec. 2017 – Dec. 2019"
-    logo: "/images/google_logo.svg"
+    logo: "/images/HuazhongUST.webp"
 
 
 
