@@ -32,7 +32,7 @@ publications:
       authors: "L. Su, P. Vélez, P. Casacuberta, J. Muñoz-Enano, M. Gil-Barba, and F. Martín"
       year: "2023"
       venue: "IEEE Transactions on Instrumentation and Measurement"
-      link: "https://arxiv.org/abs/2410.22124"
+      link: "https://doi.org/10.1109/TIM.2023.3308228"
       featured: true
 
     - title: "Phase-Variation Microwave Sensor for Permittivity Measurements Based on a High-Impedance Half-Wavelength Transmission Line"
