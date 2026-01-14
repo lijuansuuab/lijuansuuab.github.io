@@ -21,30 +21,37 @@ publications:
   authorName: "L. Su" # Your name here (to highlight your name in publications)
 
   items:
-    - title: "[Publication Title]"
-      authors: "[Author Names]"
-      year: "[Year]"
-      venue: "[Conference / Journal Name]"
-      link: "https://example.com/your-publication-link"
+    - title: "Engineering with Loss to Enhance Sensitivity in Microwave Sensors"
+      authors: "P. Casacuberta, P. Vélez, L. Su, X. Canalias, and F. Martín"
+      year: "2025"
+      venue: "IEEE Microwave Magazine"
+      link: "https://doi.org/10.1109/MMM.2024.3474636"
       featured: true
 
-    - title: "RankUp: Boosting Semi-Supervised Regression with an Auxiliary Ranking Classifier"
-      authors: "Pin-Yen Huang, Szu-Wei Fu, Yu Tsao"
-      year: 2024
-      venue: "38th Conference on Neural Information Processing Systems (NeurIPS 2024)"
+    - title: "Reflective-Mode Phase-Variation Submersible Sensor for Liquid Characterization"
+      authors: "L. Su, P. Vélez, P. Casacuberta, J. Muñoz-Enano, M. Gil-Barba, and F. Martín"
+      year: "2023"
+      venue: "IEEE Transactions on Instrumentation and Measurement"
       link: "https://arxiv.org/abs/2410.22124"
       featured: true
 
-    - title: "An Enhanced Mondrian Anonymization Model based on Self-Organizing Map"
-      authors: "Peter Shaojui Wang, Pin-Yen Huang, Yu-An Tsai, Raylin Tso"
-      year: 2020
-      venue: "15th Asia Joint Conference on Information Security (AsiaJCIS 2020)"
+    - title: "Phase-Variation Microwave Sensor for Permittivity Measurements Based on a High-Impedance Half-Wavelength Transmission Line"
+      authors: "L. Su, J. Muñoz-Enano, P. Vélez, P. Casacuberta, M. Gil-Barba, and F. Martín"
+      year: "2022"
+      venue: "2022 IEEE Sensors Conference"
       link: "https://ieeexplore.ieee.org/abstract/document/9194139"
       featured: true
 
-    - title: "[Publication Title]"
-      authors: "[Author Names]"
-      year: "[Year]"
-      venue: "[Conference / Journal Name]"
+    - title: "Planar Microwave Sensors"
+      authors: "F. Martín, P. Vélez, J. Muñoz-Enano, and L. Su"
+      year: "2022"
+      venue: "Wiley/IEEE Press"
+      link: "https://example.com/your-publication-link"
+      featured: false
+
+      - title: "Phase-Variation Microwave Sensor for Permittivity Measurements Based on a High-Impedance Half-Wavelength Transmission Line"
+      authors: "L. Su, J. Muñoz-Enano, P. Vélez, P. Casacuberta, M. Gil-Barba, and F. Martín"
+      year: "2021"
+      venue: "IEEE Sensors Journal"
       link: "https://example.com/your-publication-link"
       featured: false
