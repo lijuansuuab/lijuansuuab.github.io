@@ -49,7 +49,7 @@ publications:
       link: "https://example.com/your-publication-link"
       featured: false
 
-      - title: "Phase-Variation Microwave Sensor for Permittivity Measurements Based on a High-Impedance Half-Wavelength Transmission Line"
+    - title: "Phase-Variation Microwave Sensor for Permittivity Measurements Based on a High-Impedance Half-Wavelength Transmission Line"
       authors: "L. Su, J. Muñoz-Enano, P. Vélez, P. Casacuberta, M. Gil-Barba, and F. Martín"
       year: "2021"
       venue: "IEEE Sensors Journal"
