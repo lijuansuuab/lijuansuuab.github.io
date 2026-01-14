@@ -32,6 +32,6 @@ homepage:
       variant: default # default | card
       enabled: false
 
-    - name: Services
+    - name: Service
       variant: default # default | card
       enabled: true
