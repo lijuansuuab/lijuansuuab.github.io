@@ -26,11 +26,11 @@ homepage:
 
     - name: Skills
       variant: default
-      enabled: true
+      enabled: false
 
     - name: Talks
       variant: default # default | card
-      enabled: true
+      enabled: false
 
     - name: Services
       variant: default # default | card
