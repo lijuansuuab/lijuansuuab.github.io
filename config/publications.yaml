@@ -21,12 +21,7 @@ publications:
   authorName: "L. Su" # Your name here (to highlight your name in publications)
 
   items:
-    - title: "Transmission-Mode Phase-Variation Sensor Based on Weakly Coupled Distributed Resonators and Phase Detector for High Sensitivity Applications"
-      authors: "X. Canalias, P. Vélez, P. Casacuberta, L. Su, N. Kurniawati and F. Martin"
-      year: "2025"
-      venue: "IEEE Sensors Letters"
-      link: "https://doi.org/10.1109/LSENS.2025.3609453"
-      featured: true
+    
     
     - title: "Versatile Reflective-Mode Phase-Variation Microwave Sensor Based on a Dumbbell Defect-Ground-Structure (DB-DGS) Resonator for Solid and Liquid Characterization"
       authors: "N. Kurniawati, P. Vélez, P. Casacuberta, L. Su, X. Canalias, G. Sisó and F. Martín"
