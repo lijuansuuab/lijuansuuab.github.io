@@ -185,15 +185,15 @@ publications:
     - title: "Phase-Variation Microwave Sensor for Permittivity Measurements Based on a High-Impedance Half-Wavelength Transmission Line"
       authors: "L. Su, J. Muñoz-Enano, P. Vélez, P. Casacuberta, M. Gil-Barba, and F. Martín"
       year: "2022"
-      venue: "2022 IEEE Sensors Conference"
-      link: "https://ieeexplore.ieee.org/abstract/document/9194139"
+      venue: "IEEE Sensors Journal"
+      link: "https://doi.org/10.1109/JSEN.2021.3063112"
       featured: false
 
     - title: "Planar Microwave Sensors"
       authors: "F. Martín, P. Vélez, J. Muñoz-Enano, and L. Su"
       year: "2022"
       venue: "Wiley/IEEE Press"
-      link: "https://example.com/your-publication-link"
+      link: "https://www.wiley.com/en-us/Planar+Microwave+Sensors-p-9781119811053"
       featured: true
 
 # 2021
