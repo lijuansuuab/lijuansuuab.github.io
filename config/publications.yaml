@@ -47,21 +47,21 @@ publications:
       year: "2025"
       venue: "IEEE Access"
       link: "https://doi.org/10.1109/ACCESS.2025.3569452"
-      featured: true
+      featured: false
 
       - title: "Microstrip Line loaded with Series Gap and Dumbbell Defect-Ground-Structure (DB-DGS) Resonator for Highly Sensitive Sensing Based on Resonance/Antiresonance: Application to Humidity Measurements"
       authors: "N. Kurniawati, P. Vélez, P. Casacuberta, L. Su, X. Canalias and F. Martín"
       year: "2025"
       venue: "IEEE Sensors Letters"
       link: "https://doi.org/10.1109/LSENS.2025.3567134"
-      featured: true
+      featured: false
 
     - title: "Engineering with Loss to Enhance Sensitivity in Microwave Sensors"
       authors: "P. Casacuberta, P. Vélez, L. Su, X. Canalias, and F. Martín"
       year: "2025"
       venue: "IEEE Microwave Magazine"
       link: "https://doi.org/10.1109/MMM.2024.3474636"
-      featured: true
+      featured: false
 
       - title: "A Discussion on Sensitivity Optimization in Reflective-Mode Phase-Variation Permittivity Sensors Based on Semi-Lumped Resonators"
       authors: "L. Su, P. Vélez, P. Casacuberta, X. Canalias, N. Kurniawati, F. Martín"
@@ -75,21 +75,21 @@ publications:
       year: "2025"
       venue: "IEEE Transactions on Microwave Theory and Techniques"
       link: "https://doi.org/10.1109/TMTT.2024.3454343"
-      featured: true
+      featured: false
 
       - title: "Sensitivity Optimization in Single-Frequency Planar Microwave Sensors for Solid and Liquid Characterization and Microfluidics"
       authors: "P. Casacuberta, A. Ebrahimi, P. Vélez, L. Su, X. Canalias, K. Ghorbani, F. Martín"
       year: "2025"
       venue: "IEEE Transactions on Microwave Theory and Techniques"
       link: "https://doi.org/10.1109/TMTT.2024.3452433"
-      featured: true
+      featured: false
 
       - title: "Transmission-Mode Phase-Variation Planar Microwave Sensor Based on a Step-Impedance Shunt Stub for High Sensitivity Defect Detection, Dielectric Constant, and Proximity Measurements"
       authors: "X. Canalias, P. Vélez, P. Casacuberta, L. Su and F. Martín"
       year: "2025"
       venue: "IEEE Transactions on Microwave Theory and Techniques"
       link: "https://doi.org/10.1109/TMTT.2024.3429536"
-      featured: true
+      featured: false
 
 #2024
 
