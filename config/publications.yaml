@@ -91,7 +91,7 @@ publications:
       link: "https://doi.org/10.1109/TMTT.2024.3429536"
       featured: false
 
-#2024
+# 2024
 
       - title: "Highly Sensitive Phase-Variation Microwave Sensor Operating in Transmission Based on an Open Split Ring Resonator (OSRR)"
       authors: "N. Kurniawati, P. Vélez, P. Casacuberta, L. Su, X. Canalias and F. Martín"
@@ -135,7 +135,7 @@ publications:
       link: "https://doi.org/10.1109/TMTT.2023.3308586"
       featured: false
       
-#2023
+# 2023
 
        - title: "Reflective-Mode Phase-Variation Submersible Sensor for Liquid Characterization"
       authors: "L. Su, P. Vélez, P. Casacuberta, J. Muñoz-Enano, M. Gil-Barba, and F. Martín"
@@ -172,7 +172,7 @@ publications:
       link: "https://doi.org/10.1109/JSEN.2023.3240771"
       featured: false
 
-      #2022
+      # 2022
 
         - title: "Circuit Analysis of a Coplanar Waveguide (CPW) Terminated With a Step-Impedance Resonator (SIR) for Highly Sensitive One-Port Permittivity Sensing"
       authors: "P. Casacuberta, P. Vélez, J. Muñoz-Enano, L. Su, M. Gil-Barba, A. Ebrahimi and F. Martín"
@@ -196,7 +196,7 @@ publications:
       link: "https://example.com/your-publication-link"
       featured: true
 
-#2021
+# 2021
 
    - title: "Highly Sensitive Defect Detectors and Comparators Exploiting Port Imbalance in Rat-Race Couplers Loaded With Step-Impedance Open-Ended Transmission Lines"
       authors: "C. Herrojo, P. Vélez, J. Muñoz-Enano, L. Su, P. Casacuberta, M. Gil and F. Martín"
