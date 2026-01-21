@@ -21,13 +21,25 @@ publications:
   authorName: "L. Su" # Your name here (to highlight your name in publications)
 
   items:
-    
+    - title: "Transmission-Mode Phase-Variation Sensor Based on Weakly Coupled Distributed Resonators and Phase Detector for High Sensitivity Applications"
+      authors: "X. Canalias, P. Vélez, P. Casacuberta, L. Su, N. Kurniawati and F. Martin"
+      year: "2025"
+      venue: "IEEE Sensors Letters"
+      link: "https://doi.org/10.1109/LSENS.2025.3609453"
+      featured: true
     
     - title: "Versatile Reflective-Mode Phase-Variation Microwave Sensor Based on a Dumbbell Defect-Ground-Structure (DB-DGS) Resonator for Solid and Liquid Characterization"
       authors: "N. Kurniawati, P. Vélez, P. Casacuberta, L. Su, X. Canalias, G. Sisó and F. Martín"
       year: "2025"
       venue: "IEEE Sensors Journal"
       link: "https://doi.org/10.1109/JSEN.2025.3587339"
+      featured: true
+      
+    - title: "Transmission-Mode Phase-Variation Microwave Sensor Applied to Highly Sensitive Micrometer-Scale Thickness Measurements"
+      authors: "X. Canalias, P. Vélez, P. Casacuberta, L. Su, N. Kurniawati and F. Martin"
+      year: "2025"
+      venue: "IEEE Sensors Journal"
+      link: "https://doi.org/10.1109/JSEN.2025.3569406"
       featured: true
 
     - title: "Microstrip Configurations of Reflective-Mode Phase-Variation Permittivity Sensors Based on Weakly Coupled Step Impedance Resonators (SIR): an Analysis to the Light of Circuit Duality"
@@ -37,7 +49,7 @@ publications:
       link: "https://doi.org/10.1109/ACCESS.2025.3569452"
       featured: false
 
-      - title: "Microstrip Line loaded with Series Gap and Dumbbell Defect-Ground-Structure (DB-DGS) Resonator for Highly Sensitive Sensing Based on Resonance/Antiresonance: Application to Humidity Measurements"
+    - title: "Microstrip Line loaded with Series Gap and Dumbbell Defect-Ground-Structure (DB-DGS) Resonator for Highly Sensitive Sensing Based on Resonance/Antiresonance: Application to Humidity Measurements"
       authors: "N. Kurniawati, P. Vélez, P. Casacuberta, L. Su, X. Canalias and F. Martín"
       year: "2025"
       venue: "IEEE Sensors Letters"
@@ -51,28 +63,28 @@ publications:
       link: "https://doi.org/10.1109/MMM.2024.3474636"
       featured: false
 
-      - title: "A Discussion on Sensitivity Optimization in Reflective-Mode Phase-Variation Permittivity Sensors Based on Semi-Lumped Resonators"
+    - title: "A Discussion on Sensitivity Optimization in Reflective-Mode Phase-Variation Permittivity Sensors Based on Semi-Lumped Resonators"
       authors: "L. Su, P. Vélez, P. Casacuberta, X. Canalias, N. Kurniawati, F. Martín"
       year: "2025"
       venue: "Sensors"
       link: "https://doi.org/10.3390/s25030735"
       featured: true
 
-      - title: "Highly Sensitive Transmission-Mode Phase-Variation Permittivity Sensor Based on Resonance and Antiresonance"
+    - title: "Highly Sensitive Transmission-Mode Phase-Variation Permittivity Sensor Based on Resonance and Antiresonance"
       authors: "X. Canalias, P. Casacuberta, P. Vélez, L. Su and F. Martín"
       year: "2025"
       venue: "IEEE Transactions on Microwave Theory and Techniques"
       link: "https://doi.org/10.1109/TMTT.2024.3454343"
       featured: false
 
-      - title: "Sensitivity Optimization in Single-Frequency Planar Microwave Sensors for Solid and Liquid Characterization and Microfluidics"
+    - title: "Sensitivity Optimization in Single-Frequency Planar Microwave Sensors for Solid and Liquid Characterization and Microfluidics"
       authors: "P. Casacuberta, A. Ebrahimi, P. Vélez, L. Su, X. Canalias, K. Ghorbani, F. Martín"
       year: "2025"
       venue: "IEEE Transactions on Microwave Theory and Techniques"
       link: "https://doi.org/10.1109/TMTT.2024.3452433"
       featured: false
 
-      - title: "Transmission-Mode Phase-Variation Planar Microwave Sensor Based on a Step-Impedance Shunt Stub for High Sensitivity Defect Detection, Dielectric Constant, and Proximity Measurements"
+    - title: "Transmission-Mode Phase-Variation Planar Microwave Sensor Based on a Step-Impedance Shunt Stub for High Sensitivity Defect Detection, Dielectric Constant, and Proximity Measurements"
       authors: "X. Canalias, P. Vélez, P. Casacuberta, L. Su and F. Martín"
       year: "2025"
       venue: "IEEE Transactions on Microwave Theory and Techniques"
