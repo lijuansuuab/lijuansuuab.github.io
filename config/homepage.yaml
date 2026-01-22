@@ -20,7 +20,7 @@ homepage:
       variant: default
       enabled: true
 
-    - name: rdprojects
+    - name: Projects
       variant: default
       enabled: true
 
