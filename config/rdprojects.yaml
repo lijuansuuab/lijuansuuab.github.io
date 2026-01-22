@@ -17,7 +17,7 @@
 #       false → shown only on Publications page
 # =====================================================
 
-publications:
+rdprojects:
   authorName: "L. Su" # Your name here (to highlight your name in publications)
 
   items:
