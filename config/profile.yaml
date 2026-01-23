@@ -125,24 +125,23 @@ talks:
 
 services:
   - category: "Research Project"
-    role: "PID2022-139181OB-I00  High-Performance Microwave Sensors for Industrial Applications, Bio-Sensing, and Structural Health Monitoring (μWAVE-SENS). Universitat Autònoma de Barcelona"
-    organization: "Universitat Autònoma de Barcelona"
-    call: "Proyectos de Generación de Conocimiento 2022. Ministerio de Ciencia, Innovación y Univesidades – AEI."
+    role: "PID2022-139181OB-I00  High-Performance Microwave Sensors for Industrial Applications, Bio-Sensing, and Structural Health Monitoring (μWAVE-SENS)."
+    organization: "Proyectos de Generación de Conocimiento 2022. Ministerio de Ciencia, Innovación y Univesidades – AEI. Universitat Autònoma de Barcelona. PI: F. Martín"
     date: "2023-2026"
     link: null
     image: null
 
-  - category: "Research"
-    role: "Reviewer"
-    organization: "TPAMI 2024, NeurIPS 2025"
-    date: "2024-2025"
+  - category: "Research Project"
+    role: "CPP2021-009080, Colaboración Público-Privada 2021, AEI–MCIN. Sistema Inteligente para el Control y Mejora de Rendimiento en Procesos Industriales de Embotellado y Producción de Vinos y Productos Derivados (SMART-CELLAR)"
+    organization: "Proyectos de Colaboración Público-Privada 2021. Ministerio de Ciencia, Innovación y Univesidades – AEI. Universitat Autònoma de Barcelona, Grupo de Bodegas Vinartis, J. García-Carrión"
+    date: "2022-2025"
     link: null
     image: null
 
-  - category: "Research"
-    role: "Program Committee Member"
-    organization: "CVPR 2022"
-    date: "2022"
+  - category: "R+D+i Contract"
+    role: "Sensors for Corrosion Control in Urban Metal Structures"
+    organization: "RUBATEC S.A., Universitat Autònoma de Barcelona"
+    date: "2022-2024"
     link: null
     image: null
 
