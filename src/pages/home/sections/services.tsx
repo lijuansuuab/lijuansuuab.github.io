@@ -10,7 +10,7 @@ interface ServiceSectionProps {
   variant?: string;
 }
 
-const TITLE = "Professional Services";
+const TITLE = "Projects";
 
 export default function ServicesSection({
   variant = "default",
