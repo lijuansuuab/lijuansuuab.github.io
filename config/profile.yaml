@@ -147,7 +147,7 @@ services:
 
   - category: "Research Grant"
     role: "IJC2019-040786-I (Juan de la Cierva – Incorporación)"
-    organization: Ministerio de Ciencia, Innovación y Universidades – AEI. Universitat Autònoma de Barcelona. PI: Lijuan Su"
+    organization: "Ministerio de Ciencia, Innovación y Universidades – AEI. Universitat Autònoma de Barcelona. PI: Lijuan Su"
     date: "2020-2024"
     link: null
     image: null
