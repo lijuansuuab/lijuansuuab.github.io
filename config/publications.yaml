@@ -26,21 +26,21 @@ publications:
       year: "2025"
       venue: "IEEE Sensors Letters"
       link: "https://doi.org/10.1109/LSENS.2025.3609453"
-      featured: true
+      featured: false
     
     - title: "Versatile Reflective-Mode Phase-Variation Microwave Sensor Based on a Dumbbell Defect-Ground-Structure (DB-DGS) Resonator for Solid and Liquid Characterization"
       authors: "N. Kurniawati, P. Vélez, P. Casacuberta, L. Su, X. Canalias, G. Sisó and F. Martín"
       year: "2025"
       venue: "IEEE Sensors Journal"
       link: "https://doi.org/10.1109/JSEN.2025.3587339"
-      featured: true
+      featured: false
       
     - title: "Transmission-Mode Phase-Variation Microwave Sensor Applied to Highly Sensitive Micrometer-Scale Thickness Measurements"
       authors: "X. Canalias, P. Vélez, P. Casacuberta, L. Su, N. Kurniawati and F. Martin"
       year: "2025"
       venue: "IEEE Sensors Journal"
       link: "https://doi.org/10.1109/JSEN.2025.3569406"
-      featured: true
+      featured: false
 
     - title: "Microstrip Configurations of Reflective-Mode Phase-Variation Permittivity Sensors Based on Weakly Coupled Step Impedance Resonators (SIR): an Analysis to the Light of Circuit Duality"
       authors: "J. Borràs-Sarsa, P. Casacuberta, P. Vélez, L. Su, X. Canalias and F. Martín"
@@ -119,7 +119,7 @@ publications:
       year: "2024"
       venue: "IEEE Transactions on Microwave Theory and Techniques"
       link: "https://doi.org/10.1109/TMTT.2023.3315832"
-      featured: false
+      featured: true
 
     - title: "Highly Sensitive Coplanar Waveguide (CPW) Reflective-Mode Phase-Variation Permittivity Sensors Based on Weakly Coupled Step-Impedance Resonators (SIRs)"
       authors: "P. Casacuberta, P. Vélez, J. Muñoz-Enano, L. Su and F. Martín"
@@ -163,7 +163,7 @@ publications:
       year: "2023"
       venue: "Electronics"
       link: "https://doi.org/10.3390/electronics12102276"
-      featured: false
+      featured: true
 
     - title: "Portable Reflective-Mode Phase-Variation Microwave Sensor Based on a Rat-Race Coupler Pair and Gain/Phase Detector for Dielectric Characterization"
       authors: "P. Vélez, F. Paredes, P. Casacuberta, M. Elgeziry, L. Su, J. Muñoz-Enano, F. Costa, S. Genovesi, and F. Martin"
@@ -189,7 +189,7 @@ publications:
       link: "https://doi.org/10.1109/JSEN.2021.3063112"
       featured: false
 
-    - title: "Planar Microwave Sensors"
+    - title: "Planar Microwave Sensors (BOOK)"
       authors: "F. Martín, P. Vélez, J. Muñoz-Enano, and L. Su"
       year: "2022"
       venue: "Wiley/IEEE Press"
@@ -232,7 +232,7 @@ publications:
       year: "2021"
       venue: "IEEE Sensors Journal"
       link: "https://doi.org/10.1109/JSEN.2021.3063112"
-      featured: false
+      featured: true
 
     - title: "Planar Phase-Variation Microwave Sensors for Material Characterization: A Review and Comparison of Various Approaches"
       authors: "J. Muñoz-Enano, J. Coromina, P. Vélez, L. Su, M. Gil-Barba, P. Casacuberta and F. Martin"
@@ -246,7 +246,7 @@ publications:
       year: "2021"
       venue: "IEEE Access"
       link: "https://doi.org/10.1109/ACCESS.2021.3058575"
-      featured: false
+      featured: true
 
     - title: "Highly Sensitive Phase Variation Sensors Based on Step-Impedance Coplanar Waveguide (CPW) Transmission Lines"
       authors: "L. Su, J. Muñoz-Enano, P. Velez, P. Casacuberta, M. Gil and F. Martin"
@@ -262,3 +262,140 @@ publications:
       link: "https://doi.org/10.1109/TMTT.2020.3023728"
       featured: false
 
+#2020
+
+    - title: "Highly Sensitive Reflective-Mode Defect Detectors and Dielectric Constant Sensors Based on Open-Ended Stepped-Impedance Transmission Lines"
+      authors: "P. Casacuberta, J. Muñoz-Enano, P. Vélez, L. Su, M. Gil Barba, F. Martín"
+      year: "2020"
+      venue: "Sensors"
+      link: "https://doi.org/10.3390/s20216236"
+      featured: false
+
+    - title: "A Reflective-Mode Phase-Variation Displacement Sensor"
+      authors: "J. Muñoz-Enano, P. Vélez, L. Su, M. Gil Barba, F. Martín"
+      year: "2020"
+      venue: "IEEE Access"
+      link: "https://doi.org/10.1109/ACCESS.2020.3031032"
+      featured: false
+
+#2019
+
+    - title: "A Flexible Microwave Sensor Based on Complementary Spiral Resonator for Material Dielectric Characterization"
+      authors: "L. Su, X. Huang, W. Guo and H. Wu"
+      year: "2019"
+      venue: "IEEE Sensors Journal"
+      link: "https://doi.org/10.1109/JSEN.2019.2949695"
+      featured: true
+
+#2018
+
+    - title: "Analytical Method to Estimate the Complex Permittivity of Oil Samples"
+      authors: "L. Su, J. Mata-Contreras, P. Vélez, A. Fernández-Prieto, F. Martín"
+      year: "2018"
+      venue: "Sensors"
+      link: "https://doi.org/10.3390/s18040984"
+      featured: true
+
+#2017
+
+    - title: "Microwave Microfluidic Sensor Based on a Microstrip Splitter/Combiner Configuration and Split Ring Resonators (SRRs) for Dielectric Characterization of Liquids"
+      authors: "P. Vélez, L. Su, K. Grenier, J. Mata-Contreras, D. Dubuc, F. Martín"
+      year: "2017"
+      venue: "IEEE Sensors Journal"
+      link: "https://doi.org/10.1109/JSEN.2017.2747764"
+      featured: false
+
+    - title: "Review of Sensing Strategies for Microwave Sensors Based on Metamaterial-Inspired Resonators: Dielectric Characterization, Displacement, and Angular Velocity Measurements for Health Diagnosis, Telecommunication, and Space Applications"
+      authors: "L. Su, J. Mata-Contreras, P. Vélez, and F. Martín"
+      year: "2017"
+      venue: "International Journal of Antennas and Propagation"
+      link: "https://doi.org/10.1155/2017/5619728"
+      featured: false
+
+#2016
+
+    - title: "Configurations of Splitter/Combiner Microstrip Sections Loaded with Stepped Impedance Resonators (SIRs) for Sensing Applications"
+      authors: "L. Su, J. Mata-Contreras, P. Vélez and F. Martín"
+      year: "2016"
+      venue: "Sensors"
+      link: "https://doi.org/10.3390/s16122195"
+      featured: false
+
+    - title: "Splitter/Combiner Microstrip Sections Loaded With Pairs of Complementary Split Ring Resonators (CSRRs): Modeling and Optimization for Differential Sensing Applications"
+      authors: "L. Su, J. Mata-Contreras, P. Vélez, and F. Martín"
+      year: "2016"
+      venue: "IEEE Transactions on Microwave Theory and Techniques"
+      link: "https://doi.org/10.1109/TMTT.2016.2623311"
+      featured: true
+
+    - title: "Transmission Lines Loaded With Pairs of Stepped Impedance Resonators: Modeling and Application to Differential Permittivity Measurements"
+      authors: "J. Naqui, C. Damm, A. Wiens, R. Jakoby, L. Su, J. Mata-Contreras, F. Martín"
+      year: "2016"
+      venue: "IEEE Transactions on Microwave Theory and Techniques"
+      link: "https://doi.org/10.1109/TMTT.2016.2610423"
+      featured: false
+
+    - title: "Coplanar waveguides loaded with symmetric and asymmetric pairs of slotted stepped impedance resonators: Modeling, applications, and comparison to SIR-loaded CPWS"
+      authors: "J. Naqui, L. Su, J. Mata-Contreras, F. Martín"
+      year: "2016"
+      venue: "Microwave and Optical Technology Letters"
+      link: "https://doi.org/10.1002/mop.30134"
+      featured: false
+
+    - title: "Coplanar waveguides loaded with symmetric and asymmetric multisection stepped impedance resonators: Modeling and potential applications"
+      authors: "L. Su, J. Naqui, J. Mata-Contreras, F. Martín"
+      year: "2016"
+      venue: "Microwave and Optical Technology Letters"
+      link: "https://doi.org/10.1002/mop.29658"
+      featured: false
+
+    - title: "Modeling and applications of metamaterial transmission lines loaded with pairs of coupled complementary split ring resonators (CSRRs)"
+      authors: "L. Su, J. Naqui, J. Mata-Contreras, F. Martín"
+      year: "2016"
+      venue: "IEEE Antennas and Wireless Propagation Letters"
+      link: "https://doi.org/10.1109/LAWP.2015.2435656"
+      featured: false
+
+    - title: "Enhancing common-mode suppression in microstrip differential lines by means of chirped and multi-tuned electromagnetic bandgaps"
+      authors: "P. Vélez, M. Valero, L. Su, J. Naqui, J. Mata-Contreras, J. Bonache and F. Martín"
+      year: "2016"
+      venue: "Microwave and Optical Technology Letters"
+      link: "https://doi.org/10.1002/mop.29552"
+      featured: false
+
+    - title: "Miniature Microwave Notch Filters and Comparators Based on Transmission Lines Loaded with Stepped Impedance Resonators (SIRs)"
+      authors: "L. Su, J. Naqui, J. Mata-Contreras, F. Martín"
+      year: "2016"
+      venue: "Micromachines"
+      link: "https://doi.org/10.3390/mi7010001"
+      featured: false
+
+  #2015
+
+    - title: "Recent advances in the modeling of transmission lines loaded with split ring resonators (SRRs)"
+      authors: "J. Naqui, L. Su, J. Mata-Contreras, F. Martín"
+      year: "2015"
+      venue: "International Journal of Antennas and Propagation"
+      link: "https://doi.org/10.1155/2015/792750"
+      featured: false
+
+    - title: "Analysis of transmission lines loaded with pairs of coupled resonant elements and application to sensors"
+      authors: "J. Naqui, L. Su, J. Mata-Contreras, F. Martín"
+      year: "2015"
+      venue: "Journal of Magnetism and Magnetic Materials"
+      link: "https://doi.org/10.1016/j.jmmm.2014.12.011"
+      featured: false
+
+    - title: "Symmetry-Related Electromagnetic Properties of Resonator-Loaded Transmission Lines and Applications"
+      authors: "J. Naqui, L. Su, J. Mata-Contreras, F. Martín"
+      year: "2015"
+      venue: "Applied Sciences"
+      link: "https://doi.org/10.3390/app5020088"
+      featured: false
+
+    - title: "Modeling Metamaterial Transmission Lines Loaded With Pairs of Coupled Split-Ring Resonators"
+      authors: "L. Su, J. Naqui, J. Mata-Contreras, F. Martin"
+      year: "2015"
+      venue: "IEEE Antennas and Wireless Propagation Letters"
+      link: "https://doi.org/10.1109/LAWP.2014.2355035"
+      featured: false
