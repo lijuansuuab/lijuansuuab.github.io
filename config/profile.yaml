@@ -19,11 +19,11 @@ profile:
   profileImage: "/images/lsu.jpg"
 
   links:
-    - name: "LinkedIn"
-      url: "https://www.linkedin.com/in/[your-linkedin]"
-      icon:
-        name: "FaLinkedin"
-        package: "react-icons/fa6"
+  #  - name: "LinkedIn"
+   #   url: "https://www.linkedin.com/in/[your-linkedin]"
+ #     icon:
+ #       name: "FaLinkedin"
+ #       package: "react-icons/fa6"
 
     - name: "Google Scholar"
       url: "https://scholar.google.com/citations?user=OOJq29AAAAAJ"
@@ -126,15 +126,78 @@ talks:
 services:
   - category: "Research Project"
     role: "PID2022-139181OB-I00  High-Performance Microwave Sensors for Industrial Applications, Bio-Sensing, and Structural Health Monitoring (μWAVE-SENS)."
-    organization: "Proyectos de Generación de Conocimiento 2022. Ministerio de Ciencia, Innovación y Univesidades – AEI. Universitat Autònoma de Barcelona. PI: F. Martín"
+    organization: "Proyectos de Generación de Conocimiento 2022. Ministerio de Ciencia, Innovación y Universidades – AEI. Universitat Autònoma de Barcelona. PI: F. Martín"
     date: "2023-2026"
     link: null
     image: null
 
   - category: "Research Project"
     role: "CPP2021-009080. Sistema Inteligente para el Control y Mejora de Rendimiento en Procesos Industriales de Embotellado y Producción de Vinos y Productos Derivados (SMART-CELLAR)"
-    organization: "Proyectos de Colaboración Público-Privada 2021. Ministerio de Ciencia, Innovación y Univesidades – AEI. Grupo de Bodegas Vinartis, J. García-Carrión, Universitat Autònoma de Barcelona"
+    organization: "Proyectos de Colaboración Público-Privada 2021. Ministerio de Ciencia, Innovación y Universidades – AEI. Grupo de Bodegas Vinartis, J. García-Carrión, Universitat Autònoma de Barcelona"
     date: "2022-2025"
+    link: null
+    image: null
+
+  - category: "Research Project"
+    role: "PDC2021-121085-I00. Validation and Valorization of High-Capacity Electromagnetic Encoders and Highly Sensitive Low-Cost Microwave Sensors for Tech-Transfer in Multisector Scenarios (ENSEMBLE)"
+    organization: "Proyectos I+D+i «Pruebas de Concepto» 2021. Ministerio de Ciencia, Innovación y Universidades – AEI. Universitat Autònoma de Barcelona. PI: F. Martín"
+    date: "2021-2023"
+    link: null
+    image: null
+
+  - category: "Research Grant"
+    role: "IJC2019-040786-I (Juan de la Cierva – Incorporación)"
+    organization: Ministerio de Ciencia, Innovación y Universidades – AEI. Universitat Autònoma de Barcelona. PI: Lijuan Su"
+    date: "2020-2024"
+    link: null
+    image: null
+
+  - category: "Research Project"
+    role: "RTC-2017-6303-7. Encoder de Microondas Impreso de Campo Cercano para el Control Preciso de la Altura de Ascensores y Elevadores (Near-field Lift Encoder)"
+    organization: "Proyectos Retos-Colaboración 2017. Ministerio de Ciencia, Innovación y Universidades – AEI. Hohner Automáticos S.L., EURECAT Centre Tecnològic, Universitat Autònoma de Barcelona."
+    date: "2018-2021"
+    link: null
+    image: null
+
+  - category: "Research Project"
+    role: "Project 51905201. Mechanisms and Performance Tuning of Flexible Metamaterial Resonators for Wearable Pulse Monitoring"
+    organization: "National Natural Science Foundation of China. Huazhong University of Science and Technology. PI: Lijuan Su"
+    date: "2018-2022"
+    link: null
+    image: null
+
+  - category: "Research Project"
+    role: "Project 2019M652627. High-Sensitivity Strain Detection Sensors Using Flexible Metamaterial Resonators: Sensing Principles and Optimization"
+    organization: "China Postdoctoral Science Foundation. Huazhong University of Science and Technology. PI: Lijuan Su"
+    date: "2017-2019"
+    link: null
+    image: null
+
+  - category: "Research Project"
+    role: "Project 2018G51. Development of Flexible Passive Microwave Sensor Systems for Wearable Health Monitoring and Strain Detection"
+    organization: "Hubei Province Postdoctoral Foundation. Huazhong University of Science and Technology. PI: Lijuan Su"
+    date: "2017-2019"
+    link: null
+    image: null
+
+  - category: "Research Project"
+    role: "TEC2016-75650-R. Design and synthesis of RF/microwave components based on advanced concepts and application in communications, sensors and RFID (II)."
+    organization: "Programa Estatal de I+D+i Orientada a los Retos de la Sociedad. Ministerio de Ciencia e Innovación. Universitat Autònoma de Barcelona. PI: F. Martín"
+    date: "2017-2019"
+    link: null
+    image: null
+
+  - category: "Research Project"
+    role: "RTC-2014-2550-7: Desarrollo tecnológico de tags chipless RFID mediante tecnologías de impresión sobre substratos de bajo coste para su integración en sistemas de modernización electoral (Chipless RFID)."
+    organization: "Proyectos Retos-Colaboración 2014. Ministerio de Economía y Comptetitividad. Scytl SECURE ELECTRONIC VOTING, S.A., Instituto de Microelectrónica de Barcelona-CNM (CSIC) , Universitat Autònoma de Barcelona."
+    date: "2014-2016"
+    link: null
+    image: null
+
+  - category: "Research Project"
+    role: "TEC2013-40600-R. Design and synthesis of RF/microwave components based on advanced concepts and application in communications, sensors and RFID."
+    organization: "Programa Estatal de I+D+i Orientada a los Retos de la Sociedad. Ministerio de Economía y Comptetitividad. Universitat Autònoma de Barcelona. PI: F. Martín"
+    date: "2014-2016"
     link: null
     image: null
 
@@ -145,10 +208,52 @@ services:
     link: null
     image: null
 
+  - category: "R+D+i Contract"
+    role: "Contactless Audit - Risk limitation audits of electoral results facilitated by RFID circuits printed on paper"
+    organization: "Scytl Secure Electronic Voting SA, Universitat Autònoma de Barcelona"
+    date: "2016-2017"
+    link: null
+    image: null
+
+  - category: "R+D+i Contract"
+    role: "Sccet-Maie's - Control, conservation, efficiency and traceability system for high-economic impact medications"
+    organization: "NABELIA, Universitat Autònoma de Barcelona"
+    date: "2015-2017"
+    link: null
+    image: null
+
+  - category: "R+D+i Contract"
+    role: "Development of chipless RFID tags using electronic printing technologies for the application in secure medical prescriptions system"
+    organization: "MEDITECNOLOGÍA, Universitat Autònoma de Barcelona"
+    date: "2015-2017"
+    link: null
+    image: null
+
+  - category: "R+D+i Contract"
+    role: "Coplanar symmetry-based contactless rotation sensor"
+    organization: "EMXYS Embedded Instruments SL, Universitat Autònoma de Barcelona"
+    date: "2014-2015"
+    link: null
+    image: null
+
   - category: "Patent"
     role: "CN110926387B: A Flexible and Stretchable Strain Sensor Based on Slot-Stepped Impedance Resonator"
     organization: "D. Ye, L. Su. Huazhong University of Science and Technology"
-    date: "2021"
+    date: "2019"
+    link: null
+    image: null
+
+  - category: "Patent"
+    role: "CN110320266A: Fabrication Procedure and Detection Method for a Flexible Microwave Sensor"
+    organization: "H. Wu, L. Su, and X. Huang. Huazhong University of Science and Technology"
+    date: "2019"
+    link: null
+    image: null
+
+  - category: "Patent"
+    role: "A flexible microwave sensor for material dielectric characterization"
+    organization: "H. Wu, L. Su, and X. Huang. Huazhong University of Science and Technology"
+    date: "2019"
     link: null
     image: null
 
